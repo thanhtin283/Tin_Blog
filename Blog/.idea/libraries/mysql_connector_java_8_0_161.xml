@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-8.0.161">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../thuvien/mysql-connector-java-8.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../thuvien/taglibs-standard-impl-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../thuvien/taglibs-standard-spec-1.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
